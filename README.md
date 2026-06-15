@@ -29,7 +29,7 @@ Hyper-parameter values are set as follows:
 # Train
 epoch = 300, batch_size = 128
 # Model
-latent_dim = 128
+num_dims = 100
 # Optimizer
 optimizer = Adam(lr=0.0002, betas=(0.5, 0.999))
 ```
