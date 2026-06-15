@@ -1,3 +1,4 @@
 afhq_v2/
 .venv/
 __pycache__/
+.idea/
